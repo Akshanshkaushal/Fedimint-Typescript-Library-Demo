@@ -1,0 +1,12 @@
+CHANGELOG.md
+pnpm-lock.yaml
+tsconfig.base.json
+packages/wasm-web/** 
+packages/wasm-bundler/**
+examples/bare-js/**
+tmp/**
+*.html
+packages/*/dist/**
+docs/core/FedimintWallet/BalanceService/subscribeBalance.md
+docs/core/FedimintWallet/LightningService/createInvoice.md
+docs/core/FedimintWallet/LightningService/payInvoice.md
