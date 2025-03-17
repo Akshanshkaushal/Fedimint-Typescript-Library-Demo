@@ -7,7 +7,7 @@ jobs:
   lint:
     name: Lint
     permissions:
-      contents: write
+      contents: read
     runs-on: ubuntu-latest
 
     steps:
