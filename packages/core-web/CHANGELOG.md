@@ -1,5 +1,12 @@
 # @fedimint/core-web
 
+## 0.0.11
+
+### Patch Changes
+
+- 63a6e6b: Bump Deps - vitest, secp256k1, happy-dom, vite
+- 63a6e6b: Fixed CI with self-hosted runners @elserion
+
 ## 0.0.10
 
 ### Patch Changes
